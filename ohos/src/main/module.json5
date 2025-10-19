@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "device_boot_time",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
